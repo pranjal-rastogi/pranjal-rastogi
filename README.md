@@ -13,7 +13,7 @@
 
 <hr/>
 
-<img align="right" alt="coding" width="150" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
 ### I am a web developer
 
