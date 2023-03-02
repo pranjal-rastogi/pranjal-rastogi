@@ -12,11 +12,12 @@
  </p>
 
 <hr/>
+### I am a web developer
 
 <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
-<br>
 
-### I am a web developer
+
+
 
 - 👨‍🏭 I’m currently pursuing **B-Tech at Poornima College of Enginnering** <br>
 - 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
